@@ -1,6 +1,16 @@
 # Database-Management-System-2017
 Catatan Kuliah DBMS semester Ganjil 2017
 
+
+# Remidi UTS 2017 (27 November 2017)
+
+Download [soal UTS](https://github.com/handaga/Database-Management-System-2017/blob/master/bana-uts-if-SistemManagegementBasisdata.docx) dan buatlah solusi lengkap untuk semua soal, selanjutnya upload ke github (NIM) masing-masing.
+Dokumen jawaban bebas, boleh tulis tangan, office atau yang lainnnya, yang penting di upload di github.
+---------------------------
+
+
+
+
 # Tugas-01:
 
 
