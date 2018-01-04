@@ -3,6 +3,7 @@
 -------------------------------------------
 # Kisi-kisi UAS Ganjil 2017/2018
 -------------------------------------------
+open cheatsheet (1 hal - A4) 
 
 ## 1. MySQL Trigger 
 ## 2. MySQL Aggregate Function (built in)
