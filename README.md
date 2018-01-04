@@ -1,4 +1,22 @@
 # Database-Management-System-2017
+
+-------------------------------------------
+# Kisi-kisi UAS Ganjil 2017/2018
+-------------------------------------------
+
+## 1. MySQL Trigger 
+## 2. MySQL Aggregate Function (built in)
+## 3. MySQL Function (Store Function)
+## 4. MySQL Fulltext Search
+## 5. MySQL Views
+
+
+
+-------------------------------------------
+
+
+
+
 Catatan Kuliah DBMS semester Ganjil 2017
 
 
